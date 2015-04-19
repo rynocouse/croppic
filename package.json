@@ -1,0 +1,27 @@
+{
+  "name": "croppic",
+  "version": "1.0.0",
+  "description": "is an image cropping jquery plugin that will satisfy your needs and much more",
+  "main": "croppic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sconsult/croppic.git"
+  },
+  "dependencies": {
+    "jquery": "^2.1.1"
+  },
+  "keywords": [
+    "crop",
+    "upload",
+    "jquery"
+  ],
+  "author": "Mat Steinlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sconsult/croppic/issues"
+  },
+  "homepage": "https://github.com/sconsult/croppic"
+}
